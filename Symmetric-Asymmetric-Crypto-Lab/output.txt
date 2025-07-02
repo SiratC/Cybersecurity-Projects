@@ -1,3 +1,0 @@
-Plaintext string: Syeda Chowdhury
-Encrypted valued in BASE64 format:  tpWgkF1+0kNVJxBYCHNOkw==
-Decrypted string: Syeda Chowdhury
