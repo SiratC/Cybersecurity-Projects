@@ -1,4 +1,4 @@
-# Lab 1: Symmetric and Asymmetric Cryptography
+# Symmetric and Asymmetric Cryptography
 
 ## Overview
 This lab focuses on implementing and analyzing cryptographic operations using both symmetric (AES) and asymmetric (RSA) methods. The tasks were completed using OpenSSL and Python, demonstrating key generation, encryption/decryption, digital signatures, and performance evaluation.
