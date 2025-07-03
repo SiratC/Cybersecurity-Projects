@@ -1,7 +1,7 @@
 # Web Security
 
 ## Overview
-The purpose of this lab is to explore common web application vulnerabilities, specifically various forms of Cross-Site Scripting (XSS). This includes Stored, Reflected, and File Upload-based and Cross-Site Request Forgery (XSRF). This lab uses Gruyere web application to perform real-world simulations of these attacks in a safe, sandboxed environment.
+The purpose of this lab is for me to explore common web application vulnerabilities, specifically various forms of Cross-Site Scripting (XSS). This includes Stored, Reflected, and File Upload-based and Cross-Site Request Forgery (XSRF). This lab uses Gruyere web application to perform real-world simulations of these attacks in a safe, sandboxed environment.
 
 
 ## Part 1 – Experiment with the Gruyere Platform
