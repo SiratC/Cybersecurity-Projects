@@ -1,4 +1,4 @@
-# Lab 3: Linux Operations and Social Engineering
+# Linux Operations and Social Engineering
 
 ## Overview
 
