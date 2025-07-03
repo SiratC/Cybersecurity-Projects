@@ -9,7 +9,7 @@
 
 ![Screenshot 2](images/im2.png)
 > Figure 1.1
-
+ 
 ### Step2: Downloading a Malware Sample – MalwareBaazar
 
 ![Screenshot 3](images/im3.png)
