@@ -1,4 +1,6 @@
-# Part 1 – Experiment with the Gruyere Platform
+# Web Security
+
+## Part 1 – Experiment with the Gruyere Platform
 
 ![Screenshot a](images/a.png)
 
