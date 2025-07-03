@@ -1,5 +1,8 @@
 # File and Network Analysis
 
+## Overview
+The goal of this lab is to perform static analysis on real-world malware samples using a variety of forensic and reverse-engineering tools. In other words, I will be examining malicious files without executing them, to understand their structure, behavior, and potential threats.
+
 ## Section 1. YARA:
 
 ### Step1: Setting Up the Malware Analysis Environment
