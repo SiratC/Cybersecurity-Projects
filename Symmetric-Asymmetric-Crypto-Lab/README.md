@@ -165,7 +165,7 @@ from cryptography.hazmat.backends import default_backend
 > Imports required libraries for cryptography, padding, AES cipher configuration, and base64 encoding.
 
 ---
-
+ 
 #### `encrypt(plaintext, key, iv)`
 ```python
 padder_input = padding.PKCS7(algorithms.AES.block_size).padder()
