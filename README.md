@@ -13,5 +13,5 @@ Hands-on labs covering offensive and defensive security: network scanning, explo
 | `Linux-Operations-and-Social-Engineering/` | Bandit wargame + phishing/XSS demo | SSH, BeEF |
 | `Password-Management-Lab/` | Cracking & hardening passwords | John the Ripper, Hydra |
 | `Symmetric-Asymmetric-Crypto-Lab/` | Implementing & benchmarking AES/RSA | OpenSSL, Python |
-| `Web-security/` | XSS & CSRF in Google Gruyere | Burp Suite, OWASP ZAP |
+| `Web-security/` | XSS & CSRF in Google Gruyere | Browser Dev-Tools, DOM Manipulation |
 
